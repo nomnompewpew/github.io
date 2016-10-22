@@ -35,9 +35,9 @@
       "settings": {
         "main": true,
         "title": "Fort Harrison Band",
-        "meta_descr": "Fort Harrison band, Fort Harrison music, Fort Harrison the band, Fort Harrison indie rock, streaming free",
-        "header_custom": "",
-        "footer_custom": "",
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
+        "header_custom": "<title>Fort Harrison Band</title>\n    <!-- You can use Open Graph tags to customize link previews.\n    Learn more: https://developers.facebook.com/docs/sharing/webmasters -->\n\t<meta property=\"og:url\"           content=\"http://fortharrisonband.com/index.html\" />\n\t<meta property=\"og:type\"          content=\"Fort Harrison Band\" />\n\t<meta property=\"og:title\"         content=\"Fort Harrison Band Pictures, Videos, Music and Shows\" />\n\t<meta property=\"og:description\"   content=\"Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\" />\n\t<meta property=\"og:image\"         content=\"https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/14606444_779684355401366_3288059505387734302_n.jpg?oh=9f0a866979068080f430822df2f246e6&oe=5897ECBF\" />",
+        "footer_custom": "<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8\";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n\n<!-- Load Facebook SDK for JavaScript -->\n\t<div id=\"fb-root\"></div>\n\t<script>(function(d, s, id) {\n\t  var js, fjs = d.getElementsByTagName(s)[0];\n\t  if (d.getElementById(id)) return;\n\t  js = d.createElement(s); js.id = id;\n\t  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1\";\n\t  fjs.parentNode.insertBefore(js, fjs);\n\t}(document, 'script', 'facebook-jssdk'));</script>\n\n\t<!-- Your share button code -->\n\t<div class=\"fb-share-button\" \n\t\tdata-href=\"http://fortharrisonband.com/index.html\" \n\t\tdata-layout=\"button_count\">\n\t</div>",
         "html_before": ""
       },
       "components": [
@@ -152,11 +152,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-toolbar=\"-mbrBtnMove\">VISIT OUR YOUTUBE CHANNEL</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -169,7 +164,12 @@
             "showMeta": true
           },
           "title": "SOCIAL MEDIA UPDATES",
-          "meta": "THE LATEST FROM OUR FACEBOOK AND YOUTUBE CHANNEL"
+          "meta": "THE LATEST FROM OUR FACEBOOK AND YOUTUBE CHANNEL",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(204, 204, 204); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"256\">SOCIAL MEDIA UPDATES</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"257\">THE LATEST FROM OUR FACEBOOK AND YOUTUBE CHANNEL</small><small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"258\"><div class=\"fb-share-button\" data-href=\"http://fortharrisonband.com/index.html\" data-layout=\"button_count\" data-size=\"large\" data-mobile-iframe=\"true\"><a class=\"fb-xfbml-parse-ignore\" target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;src=sdkpreparse\">Share</a></div></small>\n\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\n",
+          "_customTemplate": true
         },
         {
           "alias": "social-feed",
@@ -319,7 +319,7 @@
     "Fort Harrison Photo Gallery": {
       "settings": {
         "title": "Gallery",
-        "meta_descr": "Fort Harrison Photo Gallery, Fort Harrison Pictures, Fort Harrison band pictures, Fort Harrison the band, Fort Harrison Indie Rock"
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music"
       },
       "components": [
         {
@@ -350,7 +350,7 @@
           "title": "FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"232\">FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br><br><br><br><br><br><br><br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"233\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"261\">FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br><br><br><br><br><br><br><br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"262\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script async src=\"https://4screens.net/4screens-service-loader.js\"></script>"
@@ -486,7 +486,7 @@
     "About": {
       "settings": {
         "title": "Fort Harrison Band",
-        "meta_descr": "Fort Harrison band, Fort Harrison music, Fort Harrison the band, Fort Harrison indie rock, streaming free",
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -745,7 +745,7 @@
     "Contact": {
       "settings": {
         "title": "Contact Us",
-        "meta_descr": "Fort Harrison band, Fort Harrison music, Fort Harrison the band, Fort Harrison indie rock, streaming free",
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -936,7 +936,7 @@
     "Music": {
       "settings": {
         "title": "Fort Harrison Music",
-        "meta_descr": "Fort Harrison band, Fort Harrison music, Fort Harrison the band, Fort Harrison indie rock, streaming free",
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1098,7 +1098,7 @@
     "Videos": {
       "settings": {
         "title": "Fort Harrison Videos",
-        "meta_descr": "Fort Harrison band, Fort Harrison music, Fort Harrison the band, Fort Harrison indie rock, streaming free, Videos, Free Fort Harrison Videos, vids, youtube",
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
