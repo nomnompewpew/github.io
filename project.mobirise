@@ -172,26 +172,6 @@
           "_anchor": "header3-4"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-0",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n\n                <div class=\"text-xs-center\">\n                    <!--—Youtube subscribe button—-->\n                      {JS_CODE_0}\n\n                        <div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"full\" data-count=\"default\">\n                            \n                        </div>\n                  <div class=\"text-xs-center\">  \n<!--—facebook share and like buttons—-->\n<iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe>\n            </div>\n     \n\n</div></section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script src=\"https://apis.google.com/js/platform.js\"></script>"
-          ],
-          "_customCSS": "",
-          "_customTemplate": true
-        },
-        {
           "alias": "social-feed",
           "_tags": [
             "Extension"
@@ -214,6 +194,62 @@
             "overlayOpacity": "0.5",
             "overlayColor": "#000000"
           }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<div custom-code=\"true\"><section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"text-xs-center\">Subscribe to Youtube<p>{JS_CODE_0}\n\n</p><div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"full\" data-count=\"default\"><p></p></div>\n            </div>\n        </div>\n    </div>\n\n</div></section></div>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://apis.google.com/js/platform.js\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"text-xs-center\"><iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"text-xs-center\"><iframe allowtransparency=\"true\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ffortharrisonband&amp;color=black_white&amp;size=32\" style=\"width: 32px; height: 32px;\"></iframe></div>\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_styles": {
