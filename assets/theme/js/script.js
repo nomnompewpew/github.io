@@ -456,6 +456,13 @@
         });        
     }
     });
+
+    //Fix menu for the Opera Mini
+    var isOperaMini = (navigator.userAgent.indexOf('Opera Mini') > -1);
+    if(isOperaMini){
+        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#ffffff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+    }
+
 })(jQuery);
 !function() {
     try {
@@ -465,7 +472,7 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.className = "engine";
-        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.7.1';
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.8.3';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }();

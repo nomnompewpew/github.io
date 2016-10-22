@@ -491,7 +491,8 @@ p.lead,
     margin-bottom: 2.3125rem; }
   .lead pre {
     background: #f4f4f4;
-    padding: 10px 0 10px 24px; }
+    padding: 10px 24px;
+    white-space: pre-wrap; }
 
 .display-1 {
   font-size: 4.39rem;
@@ -1412,11 +1413,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   .mbr-price-term {
     font-size: 1.875rem;
     position: relative; }
-    .mbr-price-term:before {
-      content: "/";
-      font-size: 110%;
-      font-weight: 100;
-      position: relative; }
 
 /*-------
 
@@ -1967,6 +1963,23 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .visible {
   visibility: visible; }
+
+.hamburger-om:after {
+  content: "";
+  width: 30px;
+  height: 3px;
+  background-color: #fff;
+  position: absolute;
+  top: 8px;
+  left: 0; }
+.hamburger-om:before {
+  content: "";
+  width: 30px;
+  height: 3px;
+  background-color: #fff;
+  position: absolute;
+  top: -8px;
+  left: 0; }
 
 /*-------
 
