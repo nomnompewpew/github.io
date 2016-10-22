@@ -36,7 +36,7 @@
         "main": true,
         "title": "Fort Harrison Band",
         "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"Fort Harrison Band, Fort Harrison Music, Free Streaming Music, fort harrison, fort harrison band, boise local music, treefort 2017, indie rock, northwest grunge, psychedelic desert rock,  #fortharrison, #fortharrisonband, #boiselocalmusic, #treefort2017, #indierock, #northwestgrunge, #psychedelicdesertrock\">\n",
         "footer_custom": "<div id=\"fb-root\"></div>\n<script>(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = \"//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8\";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n\n",
         "html_before": ""
       },
@@ -164,12 +164,32 @@
           },
           "title": "SOCIAL MEDIA UPDATES",
           "meta": "THE LATEST FROM OUR FACEBOOK AND YOUTUBE CHANNEL",
-          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(204, 204, 204); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"256\">SOCIAL MEDIA UPDATES</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"257\">THE LATEST FROM OUR FACEBOOK AND YOUTUBE CHANNEL</small><small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"258\"><div class=\"fb-share-button\" data-href=\"http://fortharrisonband.com/index.html\" data-layout=\"button_count\" data-size=\"large\" data-mobile-iframe=\"true\"><a class=\"fb-xfbml-parse-ignore\" target=\"_blank\" href=\"https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;src=sdkpreparse\">Share</a></div></small>\n\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(204, 204, 204); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"49\">SOCIAL MEDIA UPDATES</h3>\n                <small class=\"mbr-section-subtitle mbr-editable-content\" code-editable-id=\"50\">THE LATEST FROM OUR FACEBOOK AND YOUTUBE CHANNEL</small>\n\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .mbr-section-subtitle {\n\ttext-align: center;\n}\n",
           "_customTemplate": true,
           "_anchor": "header3-4"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section__container\" style=\"background-color: rgb(255, 255, 255); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"text-xs-center\">\n                    <!--—Youtube subscribe button—-->\n   {JS_CODE_0}\n\n<div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"default\" data-count=\"default\"></div>           \n\n<!--—facebook share and like buttons—-->\n<iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe>\n            </div>\n        </div>\n    </div>\n\n</div></section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://apis.google.com/js/platform.js\"></script>"
+          ],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "alias": "social-feed",
@@ -319,7 +339,8 @@
     "Fort Harrison Photo Gallery": {
       "settings": {
         "title": "Gallery",
-        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music"
+        "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
+        "header_custom": "<meta name=\"keywords\" content=\"Fort Harrison Band, Fort Harrison Music, Free Streaming Music, fort harrison, fort harrison band, boise local music, treefort 2017, indie rock, northwest grunge, psychedelic desert rock,  #fortharrison, #fortharrisonband, #boiselocalmusic, #treefort2017, #indierock, #northwestgrunge, #psychedelicdesertrock\">\n"
       },
       "components": [
         {
@@ -349,7 +370,7 @@
           "title": "FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"261\">FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br><br><br><br><br><br><br><br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"262\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"32\">FORT HARRISON PHOTOS<br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"33\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script async src=\"https://4screens.net/4screens-service-loader.js\"></script>"
@@ -487,7 +508,7 @@
       "settings": {
         "title": "Fort Harrison Band",
         "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"Fort Harrison Band, Fort Harrison Music, Free Streaming Music, fort harrison, fort harrison band, boise local music, treefort 2017, indie rock, northwest grunge, psychedelic desert rock,  #fortharrison, #fortharrisonband, #boiselocalmusic, #treefort2017, #indierock, #northwestgrunge, #psychedelicdesertrock\">\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -746,7 +767,7 @@
       "settings": {
         "title": "Contact Us",
         "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"Fort Harrison Band, Fort Harrison Music, Free Streaming Music, fort harrison, fort harrison band, boise local music, treefort 2017, indie rock, northwest grunge, psychedelic desert rock,  #fortharrison, #fortharrisonband, #boiselocalmusic, #treefort2017, #indierock, #northwestgrunge, #psychedelicdesertrock\">\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -937,7 +958,7 @@
       "settings": {
         "title": "Fort Harrison Music",
         "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"Fort Harrison Band, Fort Harrison Music, Free Streaming Music, fort harrison, fort harrison band, boise local music, treefort 2017, indie rock, northwest grunge, psychedelic desert rock,  #fortharrison, #fortharrisonband, #boiselocalmusic, #treefort2017, #indierock, #northwestgrunge, #psychedelicdesertrock\">\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1057,7 +1078,7 @@
           "title": "Music<br><br><br><br><br><br><br>",
           "text": "",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow\" style=\"background-image: url(assets/images/20140904-000626-2000x1125-72.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0; background-color: rgb(193, 193, 193);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1\">Music<br><br><br><br><br><iframe width=\"100%\" height=\"265\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_2650165?widget_id=55&amp;pwc[included_songs]=1&amp;context_type=page_object&amp;spoid=artist_2650165&amp;pwc[size]=small\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe><br><br></h1>\n<p class=\"mbr-section-lead lead\"></p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#social-buttons2-7\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow\" style=\"background-image: url(assets/images/20140904-000626-2000x1125-72.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0; background-color: rgb(193, 193, 193);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1\">Music<br><br><iframe width=\"100%\" height=\"265\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_2650165?widget_id=55&amp;pwc[included_songs]=1&amp;context_type=page_object&amp;spoid=artist_2650165&amp;pwc[size]=small\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe><br><br></h1>\n<p class=\"mbr-section-lead lead\"></p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#social-buttons2-7\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n\tcolor: #ffffff;\n}\n.mbr-section-lead {\n\tcolor: #475577;\n}\n",
@@ -1099,7 +1120,7 @@
       "settings": {
         "title": "Fort Harrison Videos",
         "meta_descr": "Fort Harrison is a 3 piece experimental rock band from Boise, Idaho. The music fuses psychedelic desert rock and northwest grunge with hints of jazz, funk, alternative and punk. The dynamic shifts, tempo changes and key changes set the mood for a captivating listening experience from start to finish. Listening to Fort Harrison has been scientifically proven to make you smarter and more attractive!\n\n#fortharrison #fortharrisonband #boiselocalmusic #treefort2017 #indierock #northwestgrunge #psychedelicdesertrock\n\ninsta: https://www.instagram.com/fortharrisonband/\nfacebook: https://www.facebook.com/fortharrisonband/\nsoundcould: https://soundcloud.com/fortharrison/\nyoutube: https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\n\nFort Harrison Band, Fort Harrison Music, Free Streaming Music",
-        "header_custom": "",
+        "header_custom": "<meta name=\"keywords\" content=\"Fort Harrison Band, Fort Harrison Music, Free Streaming Music, fort harrison, fort harrison band, boise local music, treefort 2017, indie rock, northwest grunge, psychedelic desert rock,  #fortharrison, #fortharrisonband, #boiselocalmusic, #treefort2017, #indierock, #northwestgrunge, #psychedelicdesertrock\">\n",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1218,7 +1239,7 @@
           "title": "Videos<br><br><br><br><br><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" style=\"background-image: url(assets/images/backcarston-2000x2842-29.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10\">\n<!-- This is where I embedded the Youtube Playlist -->\n                    <h1 class=\"mbr-section-title display-1\">Videos<br><br><br><br>\n                      <div class=\"videoWrapper\">\n    <!-- Copy & Pasted from YouTube -->\n    <iframe width=\"560\" height=\"349\" src=\"https://www.youtube.com/embed/?listType=playlist&amp;list=PLDrA904AfGtxX2v-USjmBI0Fj9xNMTzFd\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\n            </h1></div>\n        </div>\n    </div>\n\n    \n\n</div></section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-after-navbar\" style=\"background-image: url(assets/images/backcarston-2000x2842-29.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(0, 0, 0);\"></div>\n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10\">\n<!-- This is where I embedded the Youtube Playlist -->\n                    <h1 class=\"mbr-section-title display-1\">Videos<br>\n                      <div class=\"videoWrapper\">\n    <!-- Copy & Pasted from YouTube -->\n    <iframe width=\"560\" height=\"349\" src=\"https://www.youtube.com/embed/?listType=playlist&amp;list=PLDrA904AfGtxX2v-USjmBI0Fj9xNMTzFd\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\n            </h1></div>\n        </div>\n    </div>\n\n    \n\n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title {\n\ttext-align: center;\n}\n.videoWrapper {\n\tposition: relative;\n\tpadding-bottom: 56.25%; /* 16:9 */\n\tpadding-top: 25px;\n\theight: 0;\n}\n.videoWrapper iframe {\n\tposition: absolute;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n    height: 100%;}",
