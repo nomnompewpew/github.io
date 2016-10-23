@@ -349,8 +349,8 @@
               "active": true,
               "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "Fort Harrison",
+              "link": "#top",
               "title": "",
               "linkInNewWindow": false
             },
@@ -428,7 +428,7 @@
           "title": "FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"32\">FORT HARRISON PHOTOS<br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"33\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"67\">FORT HARRISON PHOTOS<br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"68\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script async src=\"https://4screens.net/4screens-service-loader.js\"></script>"
@@ -654,7 +654,7 @@
               "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -916,7 +916,7 @@
               "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1110,7 +1110,7 @@
               "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1274,8 +1274,8 @@
               "active": true,
               "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "alt": "Fort Harrison",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
