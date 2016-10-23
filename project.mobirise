@@ -200,29 +200,28 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-6",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#303030",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
             "firstType": "",
-            "showButtons": false,
             "secondType": "",
             "thirdType": "",
-            "fourthType": "hidden"
+            "fourthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#303030",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "PRICING TABLE",
           "subtitle": "Pricing table with four columns and solid color background.",
@@ -262,13 +261,14 @@
           "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(48, 48, 48); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"195\">CONNECT WITH US</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"196\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"197\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"198\">YOUTUBE</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"199\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"200\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"201\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"202\">{JS_CODE_0}\n\n<div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"full\" data-count=\"hidden\"></div><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"203\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"204\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"205\">FACEBOOK</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"206\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"207\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"208\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"209\"><iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"210\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"211\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"212\">SOUNDCLOUD</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"213\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"214\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"215\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"216\"><iframe allowtransparency=\"true\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ffortharrisonband&amp;color=orange_white&amp;size=64\" style=\"width: 64px; height: 64px;\"></iframe><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(48, 48, 48); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"45\">CONNECT WITH US</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"46\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"47\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"48\">YOUTUBE</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"49\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"50\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"51\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"52\">{JS_CODE_0}\n\n<div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"full\" data-count=\"hidden\"></div><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"53\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"54\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"55\">FACEBOOK</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"56\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"57\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"58\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"59\"><iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"60\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"61\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"62\">SOUNDCLOUD</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"63\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"64\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"65\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"66\"><iframe allowtransparency=\"true\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ffortharrison&amp;color=orange_white&amp;size=64\" style=\"width: 64px; height: 64px;\"></iframe><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://apis.google.com/js/platform.js\"></script>"
           ],
           "_customCSS": ".mbr-section__container .mbr-section-title {\n\tcolor: #fff;\n}\n.mbr-section__container .mbr-section-subtitle {\n\tcolor: #a0a0a0;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "pricing-table1-6"
         },
         {
           "_styles": {
@@ -276,7 +276,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -440,7 +443,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -574,7 +580,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -833,7 +842,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1024,7 +1036,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1186,7 +1201,10 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"

@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+
 
 
 
@@ -443,6 +445,8 @@ h6,
 }
 #page3-menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
 }
 #page3-menu-0 .navbar-toggler {
   color: #ffffff;
@@ -512,6 +516,7 @@ h6,
 #social-buttons2-3 .mbr-section-title {
   color: #ffffff;
 }
+
 #msg-box8-b .mbr-section-title,
 #msg-box8-b p {
   color: #fff;
@@ -521,6 +526,8 @@ h6,
 }
 #menu-4 .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
 }
 #menu-4 .navbar-toggler {
   color: #ffffff;
@@ -591,11 +598,14 @@ h6,
   color: #ffffff;
 }
 
+
 #page4-menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #page4-menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
 }
 #page4-menu-0 .navbar-toggler {
   color: #ffffff;
@@ -683,11 +693,14 @@ h6,
 #social-buttons2-5 .mbr-section-title {
   color: #ffffff;
 }
+
 #page2-menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #page2-menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
 }
 #page2-menu-0 .navbar-toggler {
   color: #ffffff;
@@ -767,11 +780,14 @@ h6,
 #social-buttons2-6 .mbr-section-title {
   color: #ffffff;
 }
+
 #page3-menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #page3-menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
 }
 #page3-menu-0 .navbar-toggler {
   color: #ffffff;
@@ -847,11 +863,14 @@ h6,
 #social-buttons2-7 .mbr-section-title {
   color: #ffffff;
 }
+
 #page3-menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
 #page3-menu-0 .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Roboto', sans-serif;
 }
 #page3-menu-0 .navbar-toggler {
   color: #ffffff;
