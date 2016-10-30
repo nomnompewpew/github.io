@@ -45,27 +45,14 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            },
-            "SPAN": {
-              "font-size": "20px"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-0",
+          "_name": "header1",
+          "_anchor": "header1-1",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "assets/images/fort-harrison-2016-2000x821-83.png",
-            "bgColor": "#fff",
+            "showArrow": true,
+            "bgImage": "assets/images/fort-harrison-2016-2000x821-86.png",
+            "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -73,37 +60,15 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": false,
+            "overlayColor": "#000",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "assets/images/poster-1400x2164-93.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "NEW ALBUM COMING SOON!<br><br><span style=\"font-weight: normal;\">WE WILL HAVE A NEW TEASER TRACK COMING AND WILL ANNOUNCE THE TITLE AND RELEASE DATE OF OUR UPCOMING ALBUM SOON!</span><br><br>UPCOMING SHOW!",
-          "text": "CHECK US OUT WITH <a href=\"https://causticresinburns.bandcamp.com/\">CAUSTIC RESIN</a> &nbsp; + <br><a href=\"http://www.clarkeandthehimselfs.com/\">CLARKE AND THE HIMSELFS</a> AND FRIENDS<br><br>&nbsp;FRI OCTOBER 28TH<br><a href=\"https://theolympicboise.com/\">The Olympic</a><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">1009 W Main Street</span><br><span style=\"font-size: 1.07rem; line-height: 1.5;\">Boise, ID 83702&nbsp;</span><br>$8 PRE / $10 DOOR<br>21+<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.eventbrite.com/e/caustic-resin-fort-harrison-tickets-27856033145?aff=es2\" data-toolbar=\"-mbrBtnMove\">GET TICKETS</a>"
+          "title": "FORT HARRISON",
+          "text": "<br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -261,7 +226,7 @@
           "description4": "Mobirise is perfect for non-techies who are not familiar with web development.",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
-          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(48, 48, 48); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"45\">CONNECT WITH US</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"46\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"47\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"48\">YOUTUBE</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"49\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"50\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"51\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"52\">{JS_CODE_0}\n\n<div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"full\" data-count=\"hidden\"></div><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"53\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"54\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"55\">FACEBOOK</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"56\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"57\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"58\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"59\"><iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"60\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"61\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"62\">SOUNDCLOUD</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"63\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"64\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"65\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"66\"><iframe allowtransparency=\"true\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ffortharrison&amp;color=orange_white&amp;size=64\" style=\"width: 64px; height: 64px;\"></iframe><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" style=\"background-color: rgb(48, 48, 48); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"mbr-section mbr-section__container mbr-section__container--middle\">\n      <div class=\"container\">\n          <div class=\"row\">\n              <div class=\"col-xs-12 text-xs-center\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"46\">CONNECT WITH US</h3>\n                  \n              </div>\n          </div>\n      </div>\n    </div>\n\n    <div class=\"mbr-section mbr-section-nopadding mbr-price-table\">\n      <div class=\"row\">\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"47\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"48\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"49\">YOUTUBE</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"50\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"51\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"52\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"53\">{JS_CODE_0}\n\n<div class=\"g-ytsubscribe\" data-channelid=\"UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-layout=\"full\" data-count=\"hidden\"></div><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"54\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"55\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"56\">FACEBOOK</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"57\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"58\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"59\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"60\"><iframe src=\"https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffortharrisonband.com%2Findex.html&amp;width=450&amp;layout=standard&amp;action=like&amp;size=large&amp;show_faces=true&amp;share=true&amp;height=80&amp;appId\" width=\"450\" height=\"80\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></div>\n                      \n                    </div>\n                </div>\n            </div>\n            <div class=\"col-xs-12 col-md-6 col-xl-4\">\n                <div class=\"mbr-plan card text-xs-center\">\n                    <div class=\"mbr-plan-header card-block\">\n                      \n                      <div class=\"card-title\">\n                        <h3 class=\"mbr-plan-title mbr-editable-content\" code-editable-id=\"61\"></h3>\n                        <small class=\"mbr-plan-subtitle mbr-editable-content\" code-editable-id=\"62\"></small>\n                      </div>\n                      <div class=\"card-text\">\n                          <div class=\"mbr-price\">\n                            <span class=\"mbr-price-value mbr-editable-content\" code-editable-id=\"63\">SOUNDCLOUD</span>\n                            <span class=\"mbr-price-figure mbr-editable-content\" code-editable-id=\"64\"></span><small class=\"mbr-price-term mbr-editable-content\" code-editable-id=\"65\"></small>\n                          </div>\n                          <small class=\"mbr-plan-price-desc mbr-editable-content\" code-editable-id=\"66\"></small>\n                      </div>\n                    </div>\n                    <div class=\"mbr-plan-body card-block\">\n                      <div class=\"mbr-plan-list mbr-editable-content\" code-editable-id=\"67\"><iframe allowtransparency=\"true\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Ffortharrison&amp;color=orange_white&amp;size=64\" style=\"width: 64px; height: 64px;\"></iframe><ul class=\"list-group list-group-flush\"></ul></div>\n                      \n                    </div>\n                </div>\n            </div>\n            \n          </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://apis.google.com/js/platform.js\"></script>"
@@ -837,6 +802,136 @@
       },
       "components": [
         {
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "Contact-form1-0",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "assets/images/dsc-0062-2000x650-92.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#897c75",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT US",
+          "subtitle": "Email Us for booking inquiries, questions or feedback.&nbsp;",
+          "form": {
+            "action": "fortharrisonband@gmail.com",
+            "alerts": {
+              "success": "Rad!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-2",
+          "_params": {
+            "postsNumber": "4",
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-3",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "SUBSCRIBE TO OUR MAILING LIST",
+          "subtitle": "We'll let you know when we release new music or post new dates for shows.",
+          "form": {
+            "action": "codyweaver@live.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -928,67 +1023,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fort Harrison</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"About\">About</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Fort Harrison Photo Gallery\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Music\" aria-expanded=\"false\">Music</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Videos\" aria-expanded=\"false\">Videos</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Contact\" aria-expanded=\"false\">Contact</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            "SMALL": {
-              "font-size": "20px",
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "font-size": "60px"
-            }
-          },
-          "_anchor": "Contact-form1-0",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "assets/images/dsc-0062-2000x650-92.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#897c75",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT US",
-          "subtitle": "Email Us for booking inquiries, questions or feedback.&nbsp;",
-          "form": {
-            "action": "fortharrisonband@gmail.com",
-            "alerts": {
-              "success": "Rad!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
