@@ -68,10 +68,10 @@
           "title": "<br><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">FORT HARRISON</span><br>",
           "text": "<br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(assets/images/fort-harrison-2016-2000x821-0.png);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"43\"><span style=\"font-size: 4.39rem; line-height: 1.1;\"><img src=\"http://fortharrisonband.com/assets/images/tapelogo-1400x889-34.png\" height=\"80%;\" width=\"80%\"></span><br></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"44\"><br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header2-1\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(assets/images/fort-harrison-2016-2000x821-0.png);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"69\"><span style=\"font-size: 4.39rem; line-height: 1.1;\">\n                        <div class=\"imageWrapper\"><img src=\"http://fortharrisonband.com/assets/images/tapelogo-1400x889-34.png\" height=\"557;\" width=\"877;\">                             </div>\n                        </span><br></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"70\"><br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header2-1\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customCSS": "",
+          "_customCSS": ".imageWrapper {\n\tposition: relative;\n\tpadding-bottom: 56.25%; /* 16:9 */\n\tpadding-top: 25px;\n\theight: 0;\n}\n.imageWrapper img {\n\tposition: absolute;\n\ttop: 0;\n\tleft: 0;\n\twidth: 100%;\n    height: 100%;}",
           "_customTemplate": true,
           "_anchor": "header1-1"
         },
@@ -1340,10 +1340,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.45rem"
+              "font-size": "1.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.570rem"
+              "font-size": "1.895rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"

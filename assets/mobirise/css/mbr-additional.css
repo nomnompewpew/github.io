@@ -420,6 +420,20 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header1-1 .imageWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+#header1-1 .imageWrapper img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 #header3-4 .mbr-section-title,
 #header3-4 .mbr-section-subtitle {
   text-align: center;
@@ -876,11 +890,11 @@ h6,
   color: #ffffff;
 }
 #page3-menu-0 .link {
-  font-size: 1.45rem;
+  font-size: 1.75rem;
 }
 #page3-menu-0 .dropdown-item,
 #page3-menu-0 .nav-dropdown-sm .link {
-  font-size: 1.570rem;
+  font-size: 1.895rem;
 }
 #page3-menu-0 .link:hover,
 #page3-menu-0 .dropdown-item:hover,
