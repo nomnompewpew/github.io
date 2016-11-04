@@ -69,7 +69,7 @@
           "title": "<br><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">FORT HARRISON</span><br>",
           "text": "<br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(assets/images/fort-harrison-2016-2000x821-0.png);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"169\"><span style=\"font-size: 4.39rem; line-height: 1.1;\"><img src=\"http://fortharrisonband.com/assets/images/tapelogo-1400x889-34.png\" height=\"557px;\" width=\"877px\"></span><br></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"170\"><br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header2-1\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-section-with-arrow mbr-after-navbar\" style=\"background-image: url(assets/images/fort-harrison-2016-2000x821-0.png);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"mbr-section col-md-10 col-md-offset-1 text-xs-center\">\n\n                    <h1 class=\"mbr-section-title display-1 mbr-editable-content\" code-editable-id=\"171\"><span style=\"font-size: 4.39rem; line-height: 1.1;\"><img src=\"http://fortharrisonband.com/assets/images/tapelogo-1400x889-34.png\" height=\"557px;\" width=\"877px\"></span><br></h1>\n                    <p class=\"mbr-section-lead lead mbr-editable-content\" code-editable-id=\"172\"><br>STAY TUNED FOR A RELEASE DATE FOR OUR UPCOMING SINGLE \"GUNS\" THAT WILL APPEAR ON OUR LATEST ALBUM DUE OUT IN THE NEXT FEW MONTHS<br><br>CONNECT WITH US ON FACEBOOK, TWITTER AND INSTAGRAM OR JOIN OUR MAILING LIST SO YOU'LL ALWAYS KNOW WHERE AND WHEN WE'RE PLAYING!</p>\n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#header2-1\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
@@ -314,10 +314,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.895rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -359,21 +359,21 @@
           "_anchor": "page3-menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "assets/images/namelogo-201x128-23.png",
               "height": 128,
               "alt": "Fort Harrison",
               "link": "#top",
@@ -454,7 +454,7 @@
           "title": "FORT HARRISON PHOTOS<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"67\">FORT HARRISON PHOTOS<br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"68\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 160px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"173\">FORT HARRISON PHOTOS<br><br><div data-fsid=\"h.580b0d05fd0e4d0100434658\" data-width=\"100%\" data-height=\"500px\"></div>\n{JS_CODE_0}<br><br></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"174\"></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script async src=\"https://4screens.net/4screens-service-loader.js\"></script>"
@@ -481,10 +481,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.895rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -526,21 +526,21 @@
           "_anchor": "menu-4",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Landing Page",
               "link": "index.html",
@@ -588,67 +588,6 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/harrison2fort\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/fortharrisonband\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCp3WmTdFVeDjT-UK8IQ0v6Q\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/fortharrisonband/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>      "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "IMAGE SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "right",
-                "showTitle": true,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": true,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#fff",
-            "showBullets": true
-          },
-          "_anchor": "slider3-3",
-          "articleLayout": false
         }
       ]
     },
@@ -724,21 +663,21 @@
           "_anchor": "page4-menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1148,21 +1087,21 @@
           "_anchor": "page2-menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1281,21 +1220,21 @@
           "_anchor": "page3-menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1446,21 +1385,21 @@
           "_anchor": "page3-menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "@PROJECT_PATH@/assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
               "height": 128,
               "alt": "Fort Harrison",
               "link": "index.html",
@@ -1561,10 +1500,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.25rem"
+              "font-size": "1.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.354rem"
+              "font-size": "1.895rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1606,21 +1545,21 @@
           "_anchor": "menu-5",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "1.25",
+            "fontSize": "1.75",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "assets/images/480071-331809976855475-204486064-n-128x128-46.jpg",
+              "src": "assets/images/namelogo-201x128-23.png",
               "height": 128,
               "alt": "Fort Harrison",
               "link": "#top",
